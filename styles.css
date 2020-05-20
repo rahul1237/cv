@@ -163,21 +163,3 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-@media(max-width:1028px)
-{
-body{
-font-size:25px;}
-h1{
-font-size: 8.625rem;
-}
-h2{
-font-size: 3rem;
-}
-h3{
-font-size: 2rem;}
-.btn{
-font-size: 35px;
-}
-.copyright{
-font-size: 1.2rem;}
-}
