@@ -163,3 +163,14 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+@media(max-width:1028px)
+{
+body{
+font-size:10px;}
+h1{
+font-size: 5.625rem;
+}
+h2{
+font-size: 3rem;
+}
+}
