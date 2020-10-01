@@ -1,0 +1,131 @@
+.A{
+    background-color: #cbf1f5;
+    /* margin-left: 0px; */
+    /* width: 100%; */
+    border: none;
+    padding: 0mm;
+    /* height: 300px; */
+    padding: 10px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    /* font-family: 'Sacramento', cursive; */
+}
+
+h1{
+    margin-top: 0;
+    color: #61c0bf;
+    padding-top:100px ;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: 0mm;
+    font-size: 25px;
+    color: #3490de;
+    font-family: 'Grandstander', cursive;
+}
+
+
+
+
+#A{
+    background-color: red;
+}
+
+#Mon{
+    width: 300px;
+    /* position: absolute; */
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+.Cld1{
+    width: 80px;
+    position: absolute;
+    top:50px;
+    left: 970px;;
+}
+
+.bio{
+    padding: 100px;
+
+}
+
+.Cld2{
+    position: absolute;
+    left: 450px;
+}
+
+.tab{
+    position: relative;
+    left: 525px;
+}
+
+h3{
+    font-family: 'Taviraj', serif;
+}
+
+.tabrat{
+    position: relative;
+    left: 650px;
+}
+
+#insta{
+    width: 25px;
+    display: inline;
+    position: relative;
+    bottom: 30px;
+}
+
+#follow{
+    border-width: 10px;
+    height: 100px;
+    position: absolute;
+    left: 1350px;
+}
+
+#link{
+    width: 25px;
+    position: relative;
+    bottom: 90px;
+    left: 28px;
+}
+
+#fac{
+    width: 25px;
+    position: relative;
+    bottom: 150px;
+    right: 30px;
+}
+
+#main{
+    width: 100%;
+
+}
+
+
+.follow{
+    position: relative;
+    left: 650px;
+    top: 50px;
+    /* border: solid; */
+}
+
+/* .final{
+    height: 100px;
+    background-color: #cbf1f5;
+    margin-bottom: 0mm;
+    position: fixed;
+} */
+
+.B{
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
